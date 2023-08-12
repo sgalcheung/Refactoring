@@ -1,0 +1,18 @@
+.vs
+*.user
+bin
+obj
+appsettings.Production.json
+appsettings.Development.json
+*.log
+*.pubxml
+**/wwwroot/lib
+**/wwwroot/**/*.min.*
+
+docker-compose.debug.yml
+
+# JetBrains Rider
+.idea/
+
+*.db*
+
